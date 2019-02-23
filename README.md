@@ -1,0 +1,1 @@
+Basic react project structure with included build files
